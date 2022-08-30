@@ -1,0 +1,7 @@
+pip is the acronym for "Pip Install Packages". Pip is the command which is used to download 
+various packages/modules that someone has already made.
+We use pip as follow:
+
+pip install package_name
+for ex: pip install sklearn
+here sklearn is the name of module

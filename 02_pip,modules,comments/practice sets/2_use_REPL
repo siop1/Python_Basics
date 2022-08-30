@@ -1,0 +1,7 @@
+Use REPL to write the table of 5 one by one
+
+Open terminal
+type python and press enter then python REPL will open
+Now type 5*1 and press enter
+then 5*2 and press enter
+Do so until you reach 5*10 

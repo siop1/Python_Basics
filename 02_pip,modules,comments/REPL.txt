@@ -1,0 +1,7 @@
+REPL stands for Read,Executed,Print and Loop.
+
+When we need to test some small codes then we can type python in terminal/console then REPL will open
+and we can write some codes to test.We can do some arithmetical calculations.
+
+But if alot of code is needed to write then we need to use text editors or IDE like vscode,sublime text,
+etc.
