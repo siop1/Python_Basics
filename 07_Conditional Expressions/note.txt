@@ -1,0 +1,3 @@
+I already know about conditional as I am a good
+knowledge of c program. So it had made to relate easily with
+python

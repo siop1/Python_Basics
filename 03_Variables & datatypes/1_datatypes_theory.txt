@@ -1,0 +1,12 @@
+Datatypes:
+1. int
+2. boolean
+3. string
+4. float
+5. list --> changeable, duplicates allowed,
+6. tuple --> unchangeable,duplicates allowed
+7. set --> unchangeable, no duplicates
+6. dictionary --> changeable, no duplicates
+        dict_keys
+        dict_values
+        dict_items
