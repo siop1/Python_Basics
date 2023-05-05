@@ -10,6 +10,7 @@ cwd=os.getcwd()
 # printing the current working directory
 print("Current working directory: ",cwd)
 
+
 # note: + sign is used to concatenate similar datatype
 # for ex: str + str or int + int
 # we have to add space between quotes to create space between two string

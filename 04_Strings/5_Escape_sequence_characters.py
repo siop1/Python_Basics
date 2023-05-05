@@ -9,7 +9,7 @@
 print("hello man")
 print("hello\nman") # prints hello and man separately in new line
 print("\thello man") # adds tab before hello
-print("Hello ma\n") # if you want to insert \ and used like this
+print("Hello man\n") # if you want to insert \ and used like this
 # then it will treated it as \n newline escape character
 print("Hello ma\\n") # if needed to insert \ character then use \\
 
@@ -27,7 +27,7 @@ print("The film is named \"Bahubali\"")
 
 # You may ask me Siop you previously told us to use "" inside '' or 
 # use '' inside "" then why are you using \' character
-# let me give you an example 
+# let me give you an scenario
 # What if you have to use both double quote and single quote inside string
 
 # print("This book is named 'Brain power' and it is "awesome" ")

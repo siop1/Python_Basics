@@ -11,6 +11,6 @@ print(b) # prints index of character
 # Well we can make this program more interesting after learning if else so I am commenting it for now
 # You can check this out
 # if(b>=0):
-#     print("Double spaces detect at index",b)
+#     print("Double spaces detected at index",b)
 # else:
 #     print("No double spaces detected")

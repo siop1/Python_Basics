@@ -4,3 +4,4 @@ a=input("Enter first number: ")
 b=input("Enter second number: ")
 result=(int(a)+int(b))/2
 print("The average of ",a," and ",b, " is ", str(result))
+print(type(result))

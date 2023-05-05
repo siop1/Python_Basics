@@ -1,5 +1,5 @@
 # Use a comparison operators to find out whether a given variable a is
-# greater than b or note
+# greater than b or not
 
 a=30
 b=50

@@ -35,3 +35,12 @@ print(x)
 
 # All the above three example do the same thing
 
+"""You can also import all functions inside a module like this:
+from platform import * 
+x=system()
+print(x)
+
+But this is not a good idea if we use multiple modules because they may have same functions name
+for ex: if two modules contain same function name like add() then compiler will be confused which add() function
+we are talking about.""" 
+

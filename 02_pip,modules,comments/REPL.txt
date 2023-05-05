@@ -1,4 +1,4 @@
-REPL stands for Read,Executed,Print and Loop.
+REPL stands for Read,Execute,Print and Loop.
 
 When we need to test some small codes then we can type python in terminal/console then REPL will open
 and we can write some codes to test.We can do some arithmetical calculations.

@@ -1,4 +1,4 @@
-a="     python python is fun and i like it fun"
+a="python python is fun and i like it fun"
 print(a)
 ##String Functions
 

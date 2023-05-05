@@ -2,6 +2,6 @@ Python is simple,readable,fast programmable programming language.
 It is a interpreter based programming language because it executes codes line by line.
 It doesnot use {} in function and indentation is used to say these codes are under this function.
 It doesnot use semicolon as we move to next line it automatically mark this as new code.
-We donot have to manage memory in python unlike memory need to managed in c language.
+We donot have to manage memory in python unlike memory need to be managed in c language.
 
 I have good knowledge of C language so I think I will learn the python faster.
